@@ -1,1 +1,2 @@
-# Registeration-page-using-react-js-and-MySQL
+# React-Login-Signup-Authentication
+Mern Login and Register authentication
